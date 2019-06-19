@@ -1,11 +1,11 @@
-### Contents
-* [Paper List](#paper-list)
+### 目录
+* [论文列表](#论文列表)
   * [一作论文](#一作论文)
   * [学术活动](#学术活动)
 * [数据竞赛](#数据竞赛)
-* [Projects](#projects)
+* [项目简介](#项目简介)
 
-## Paper List
+## 论文列表
 ### 一作论文
 * SwitchNet: A Modular Neural Network for Adaptive Relation Extraction. EMNLP 2019 在审  
 * GRNN4TE: A Graph Recursive Neural Network for Joint Task Learning in Triple Extraction. EMNLP 2019 在审  
@@ -48,7 +48,7 @@
   * 华为“寻路”图搜索比赛 2016  
   任务描述：在基站网络中，找到穿过一部分指定节点，最后到达终点的最短路径。由于节点数量，而且比较运行速度，使用Dijstrka加上一些随机的猜测。
 
-## Projects
+## 项目简介
 项目 | 描述
 ---|---
 FlexNER | 基于Tensorflow的命名实体识别开源工具包，完成数据预处理、模型搭建、后处理、结果评估一系列步骤，支持数据增强。
@@ -56,7 +56,7 @@ GRNN4TE | 端到端三元组抽取神经网络，从简单的文本输入中直�
 SwitchNet | 模块化关系抽取神经网络模型。
 Brain Knowledge Engine | 脑科学知识图谱服务。从Query box输入查询的术语，（例如：Hippocampus），系统就会按照不同物种组织并返回关联关系。
 Algorithm | 实现各种常见算法。（排序、二叉搜索树、图搜索、链表、队列、堆栈等）
-SpeciesExplorer | 基于Hierarchical attention mechanism的物种序列生成模型。输入生物医学文献的文档，生成它所研究的物种类别，用于从物种角度组织文献和知识。
+SSG | 基于Hierarchical attention mechanism的物种序列生成模型。输入生物医学文献的文档，生成它所研究的物种类别，用于从物种角度组织文献和知识。
 GDBT | 用于语义知识库增删改查，导入导出知识的toolkit。基于Java、Virtuoso、Jena。
 BertQA | 搜索引擎问答模型，基于BERT+attention。输入一个问题和1000个候选答案，自动对其进行排序，返回最能匹配这个问题的前10个答案。
 RelationRunner | 半监督关系抽取算法。给定几个种子，总结一些规则，然后利用规则抽取更多关系。使用LCS算法学习规则，为了提升计算效率，采用KMP算法优化字符串匹配。
