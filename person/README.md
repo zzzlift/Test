@@ -21,7 +21,9 @@
 
 ### 学术活动
 * PC member of Brain Informatics conference  
-* Outstanding contribution in reviewing Journal of Cognitive Systems Research
+* Outstanding contribution in reviewing Journal of Cognitive Systems Research 
+* IEEE SMC 2016 oral presentation
+* BIH 2016 oral presentation (introducing 3 papers)
 
 ## 数据竞赛
 * SemEval 2018 task 7: Subtask 2 Relation Classification (第2) Relation Extraction (第3)  
