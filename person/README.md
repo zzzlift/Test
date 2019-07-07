@@ -35,7 +35,7 @@
 * MS MARCO passage retrieval (截至2019.01第3)  
 任务描述：给定一个问题从一千个候选的passage中选择最能回答这个问题的前10个候选项。作为核心骨干完成，使用 (BERT + attention + ranking)。因为这是一个没有截至日期的榜，排名有所后退。  
 * 其他比赛
-  * 新闻链接预测 Hackthon 2019  （21名)  
+  * 新闻链接预测 Hackthon 2019  
   任务描述：Science of Science Data Hackthon 给定一篇新闻，从2.5万篇参考文献候选中，选出前3篇能够引用的参考文献。作为核心骨干完成，比赛时间是3天，使用BM25进行初选，然后使用BERT。
   * Kaggle 2018 Toxic Comment Classificaiton Challenge  
   任务描述：对twitter进行多标签情感分类。独立完成，使用CNN和LSTM的混合模型，以及self attention识别出情感词。
