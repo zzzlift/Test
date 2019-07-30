@@ -30,7 +30,7 @@
 ## 数据竞赛
 * SemEval 2018 task 7: Subtask 2 Relation Classification (第2) Relation Extraction (第3) (Post evaluation using SwitchNet) [link](pic/1648318500.jpg)   
 任务描述：从科学文献中抽取出预定义的6种关系类型。独立完成，使用SwitchNet。
-* CCL 2018中文文本蕴含推理三等奖（第5）  
+* CCL 2018中文文本蕴含推理三等奖（第5）[link](pic/img6.jpg)     
 任务描述：给定一句前提和一句假设，判断前提是否蕴含这假设。独立完成，使用了中文的词向量，字向量，overlap向量，decomposible attention.
 * MS MARCO passage retrieval (截至2019.01第3)  
 任务描述：给定一个问题从一千个候选的passage中选择最能回答这个问题的前10个候选项。作为核心骨干完成，使用 (BERT + attention + ranking)。这是一个没有截至日期的榜，排名有所后退。  
