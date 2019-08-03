@@ -34,7 +34,10 @@
 任务描述：给定一句前提和一句假设，判断前提是否蕴含这假设。独立完成，使用了中文的词向量，字向量，overlap向量，decomposible attention.
 * MS MARCO passage retrieval (截至2019.01第3)  
 任务描述：给定一个问题从一千个候选的passage中选择最能回答这个问题的前10个候选项。作为核心骨干完成，使用 (BERT + attention + ranking)。这是一个没有截至日期的榜，排名有所后退。  
+
 * 其他比赛
+  * CCKS 2019 中文人物关系抽取 (第10)  
+  任务描述： 使用远程监督产生的带有噪音的数据集作为训练语料，去抽取预定义的34种人物关系类型，例如“现妻”，“前妻”，“未婚妻”，“叔伯”，“舅舅”等。作为核心骨干合作完成，采用GCN。
   * 新闻链接预测 Hackthon 2019  
   任务描述：Science of Science Data Hackthon 给定一篇新闻，从2.5万篇参考文献候选中，选出前3篇能够引用的参考文献。作为核心骨干完成，比赛时间是3天，使用BM25进行初选，然后使用BERT。
   * Kaggle 2018 Toxic Comment Classificaiton Challenge  
