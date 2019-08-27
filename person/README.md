@@ -77,4 +77,4 @@ RelationRunner | 半监督关系抽取算法。给定几个种子，总结一些
  * 2016研究生国家奖学金 [link](pic/guojiang.pdf)
  * 优秀学生干部 [link](pic/ganbu.jpg)
  * 优秀学生会部长 [link](pic/buzhang.pdf)
- 
+ * 其他约10种奖励[link](pic)
