@@ -12,7 +12,7 @@
 * SwitchNet: A Modular Neural Network for Adaptive Relation Extraction. 改投AAAI 2020  
 * CIL4TE: Cascade Inference Learning for Triple Extraction with Graph Recursive Neural Network. 改投AAAI 2020  
 * C2FNet: Coarse-to-Fine Learning for Modeling List-Context Information in Text Option Selection. 改投AAAI 2020  
-* FlexNER: A Flexible LSTM-CNN Stack Framework for Named Entity Recognition. NLPCC 2019   
+* FlexNER: A Flexible LSTM-CNN Stack Framework for Named Entity Recognition. [NLPCC 2019](pic/nlpcc2019.)    
 * Building Functioning Brain Connectome Knowledge Graph through Semi-supervised Relation Extraction. Frontiers in Neuroinformatics 在审 （神经信息学领域代表期刊，SCI IF=3.074)  
 * SSG: A Hierarchical Attention Model for Species Sequence Generation in Biomedical Literature. Frontiers in Neuroinformatics 改投 (神经信息学领域代表期刊，SCI IF=3.074)  
 * Named Entity Recognititon on Neurobiology, Cognition and Disease. Frontiers in Neuroinformatics 改投（神经信息学领域代表期刊，SCI IF=3.074）
