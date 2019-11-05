@@ -21,6 +21,10 @@
 * Relation Inference and Type Identification Based on Brain Knowledge Graph. BIH 2016 (EI index)
 * Brain Knowledge Engine.  AINI 2016
 
+### 非一作论文
+* Structural block driven - enhanced convolutional neural representation for relation extraction. Applied soft computing (SCI IF=4.873)
+* User Interests Analysis and Its Application on the Linked Brain Data Platform. BIH 2016
+
 ### 学术活动
 * PC member of Brain Informatics conference  
 * Outstanding contribution in reviewing Journal of Cognitive Systems Research [link](pic/Certificate.jpg) 
