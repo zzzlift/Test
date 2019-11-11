@@ -9,9 +9,9 @@
 
 ## 论文列表
 ### 一作论文
-* SwitchNet: A Modular Neural Network for Adaptive Relation Extraction. 改投AAAI 2020  
-* CIL4TE: Cascade Inference Learning for Triple Extraction with Graph Recursive Neural Network. 改投AAAI 2020  
-* C2FNet: Coarse-to-Fine Learning for Modeling List-Context Information in Text Option Selection. 改投AAAI 2020  
+* SwitchNet: A Modular Neural Network for Adaptive Relation Extraction. AAAI 2020改投  
+* CIL4TE: Cascade Inference Learning for Triple Extraction with Graph Recursive Neural Network. AAAI 2020改投  
+* C2FNet: Coarse-to-Fine Learning for Modeling List-Context Information in Text Option Selection. AAAI 2020改投  
 * FlexNER: A Flexible LSTM-CNN Stack Framework for Named Entity Recognition. [NLPCC 2019](pic/nlpcc2019.png)    
 * Building Functioning Brain Connectome Knowledge Graph through Semi-supervised Relation Extraction. Frontiers in Neuroinformatics 在审 （神经信息学领域代表期刊，SCI IF=3.074)  
 * SpecExplorer: Species Classification in Biomedical Literature Based on Span of Interest. Frontiers in Neuroinformatics 改投 (神经信息学领域代表期刊，SCI IF=3.074)  
