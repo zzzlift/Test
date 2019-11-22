@@ -9,7 +9,7 @@
 
 ## 论文列表
 #### 2019  
-* Hongyin Zhu, Wenpeng Hu, Yi Zeng. FlexNER: A Flexible LSTM-CNN Stack Framework for Named Entity Recognition. [NLPCC 2019](pic/nlpcc2019.png)    
+* Hongyin Zhu, Wenpeng Hu, Yi Zeng. FlexNER: A Flexible LSTM-CNN Stack Framework for Named Entity Recognition. NLPCC 2019. [Picture](pic/nlpcc2019.png)    
 * Dongsheng Wang, Prayag Tiwari, Sahil Garg, Hongyin Zhu, and Peter Bruza. Structural block driven - enhanced convolutional neural representation for relation extraction. Applied soft computing (SCI IF=4.873)  
 * Building Functioning Brain Connectome Knowledge Graph through Semi-supervised Relation Extraction. Frontiers in Neuroinformatics 改投 （神经信息学领域代表期刊，SCI IF=3.074)  
 * SpecExplorer: Species Classification in Biomedical Literature Based on Span of Interest. Frontiers in Neuroinformatics 改投 (神经信息学领域代表期刊，SCI IF=3.074)  
