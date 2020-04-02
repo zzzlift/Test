@@ -9,7 +9,7 @@
 
 ## 论文列表
 #### 2019  
-* Hongyin Zhu, Yi Zeng, Dongsheng Wang, Cunqing Huangfu. SpecExplorer: Species Classification in Biomedical Literature Based on Span of Interest. Frontiers in Human Neuroscience, 2020 (SCI IF=2.870)  
+* Hongyin Zhu, Yi Zeng, Dongsheng Wang, Cunqing Huangfu. Species Classification for Neuroscience Literature Based on Span of Interest Using Sequence-to-sequence Learning Model. Frontiers in Human Neuroscience, 2020 (SCI IF=2.870)  
 * Hongyin Zhu, Wenpeng Hu, Yi Zeng. FlexNER: A Flexible LSTM-CNN Stack Framework for Named Entity Recognition. NLPCC 2019. [Picture](pic/nlpcc2019.png)    
 * Dongsheng Wang, Prayag Tiwari, Sahil Garg, Hongyin Zhu, and Peter Bruza. Structural block driven - enhanced convolutional neural representation for relation extraction. Applied soft computing (SCI IF=4.873)  
 
