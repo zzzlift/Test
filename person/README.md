@@ -9,19 +9,15 @@
 
 ## 论文列表
 #### 2019  
+* Hongyin Zhu, Yi Zeng, Dongsheng Wang, Cunqing Huangfu. SpecExplorer: Species Classification in Biomedical Literature Based on Span of Interest. Frontiers in Human Neuroscience, 2020 (SCI IF=2.870)  
 * Hongyin Zhu, Wenpeng Hu, Yi Zeng. FlexNER: A Flexible LSTM-CNN Stack Framework for Named Entity Recognition. NLPCC 2019. [Picture](pic/nlpcc2019.png)    
 * Dongsheng Wang, Prayag Tiwari, Sahil Garg, Hongyin Zhu, and Peter Bruza. Structural block driven - enhanced convolutional neural representation for relation extraction. Applied soft computing (SCI IF=4.873)  
-* Building Functioning Brain Connectome Knowledge Graph through Semi-supervised Relation Extraction. Frontiers in Neuroinformatics 改投 （神经信息学领域代表期刊，SCI IF=3.074)  
-* SpecExplorer: Species Classification in Biomedical Literature Based on Span of Interest. Frontiers in Neuroinformatics 改投 (神经信息学领域代表期刊，SCI IF=3.074)  
-* Named Entity Recognititon on Neurobiology, Cognition and Disease. Frontiers in Neuroinformatics 改投（神经信息学领域代表期刊，SCI IF=3.074）
-* SwitchNet: A Modular Neural Network for Adaptive Relation Extraction. AAAI 2020 改投  
-* CIL4TE: Cascade Inference Learning for Triple Extraction with Graph Recursive Neural Network. AAAI 2020 改投  
-* C2FNet: Coarse-to-Fine Learning for Modeling List-Context Information in Text Option Selection. AAAI 2020 改投  
+
 #### 2016  
+* Hongyin Zhu, Yi Zeng, Dongsheng Wang, Bo Xu. Brain Knowledge Graph Analysis Based on Complex Network Theory. BIH 2016 (SCI/EI)
+* Hongyin Zhu, Yi Zeng, Dongsheng Wang, Bo Xu. Relation Inference and Type Identification Based on Brain Knowledge Graph. BIH 2016 (SCI/EI)
+* Yi Zeng, Dongsheng Wang, Hongyin Zhu. User Interests Analysis and Its Application on the Linked Brain Data Platform. BIH 2016 (SCI/EI)
 * Hongyin Zhu, Yi Zeng, Yiping Yang. Research Topics Variation Analysis and Prediction Based on FARO and Neural Networks. IEEE SMC 2016 (EI index)
-* Hongyin Zhu, Yi Zeng, Dongsheng Wang, Bo Xu. Brain Knowledge Graph Analysis Based on Complex Network Theory. BIH 2016 (EI index)
-* Hongyin Zhu, Yi Zeng, Dongsheng Wang, Bo Xu. Relation Inference and Type Identification Based on Brain Knowledge Graph. BIH 2016 (EI index)
-* Yi Zeng, Dongsheng Wang, Hongyin Zhu. User Interests Analysis and Its Application on the Linked Brain Data Platform. BIH 2016 (EI index)
 * Hongyin Zhu, Yi Zeng, Dongsheng Wang. Brain Knowledge Engine. Advances in Neuroinformatics IV. AINI 2016. Conference Abstract: Demonstration Session-12. DOI:10.14931/aini2016.ds.12
 
 ### 学术活动
